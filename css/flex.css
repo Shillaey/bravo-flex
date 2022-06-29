@@ -1,0 +1,14 @@
+.wrap{
+    display: flex;
+    justify-content: space-around;
+}
+
+.spark{
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+    width: 100px;
+}
+
